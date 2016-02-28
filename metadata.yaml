@@ -1,0 +1,21 @@
+_repo: New-York-at-the-Louisiana-Purchase-Exposition-St-Louis-1904-Report-of-the-New-York-State-Commi__9308
+creator:
+  author:
+    agent_name: Ellis, DeLancey M.
+    gutenberg_agent_id: '3009'
+    url: http://www.gutenberg.org/2009/agents/3009
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Louisiana Purchase Exposition (1904 : Saint Louis, Mo.) -- New York (State)'
+title: "New York at the Louisiana Purchase Exposition, St. Louis 1904\r\nReport of\
+  \ the New York State Commission"
+url: http://www.gutenberg.org/ebooks/9308
